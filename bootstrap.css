@@ -68,6 +68,9 @@ h1{
     text-align: center;
 }
 
+hr{
+    border-top: 3px dotted;
+}
 
 h2{
     color: #635300;
