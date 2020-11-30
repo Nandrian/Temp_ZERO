@@ -1,0 +1,13 @@
+body{
+    background-color: #705200;
+}
+
+.container{
+    background-color: white;
+}
+
+.card-body{
+    background-color: #a67900;
+    width: 150;
+    height: 150px;
+}
