@@ -7,7 +7,7 @@ body{
 {
     background-color: #A67900;
     width: 85%;
-    height: 50px;
+    height: 100px;
     color: white;
     display: flex;
     justify-content: center;
@@ -70,6 +70,8 @@ h1{
 
 hr{
     border-top: 3px dotted;
+    padding-bottom: 25px;
+    margin: 25px;
 }
 
 h2{
