@@ -6,8 +6,22 @@ body{
     background-color: white;
 }
 
-.card-body{
+.card{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #a67900;
-    width: 150;
-    height: 150px;
+    color: white;
+    margin: 0 auto;
+}
+
+h1{
+    padding: 25px;
+    color: #6b3904;
+}
+
+h2{
+    color: #635300;
 }
