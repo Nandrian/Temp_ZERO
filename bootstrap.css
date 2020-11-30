@@ -1,7 +1,51 @@
 body{
     background-color: #705200;
+    padding: 0;
+    margin: 0;
 }
 
+/* Partie Antsa */
+.logo
+{
+    background-color: #A67900;
+    width: 85%;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar{
+    background-color:  #A67900!important;
+}
+ul{
+    background-color:  #A67900!important;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px !important;
+    height: 50px;
+    width: 75%;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+    color: white;
+    background-color:  #A67900!important; 
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+}
+i{
+    background-color:  #A67900!important; 
+    
+}
+i:hover{
+    color: black;
+}
+/* Partie Nandrian */
 .container{
     background-color: white;
 }
@@ -20,8 +64,12 @@ body{
 h1{
     padding: 25px;
     color: #6b3904;
+    font-family: 'Raleway', sans-serif;
 }
+
 
 h2{
     color: #635300;
+    font-family: 'Raleway', sans-serif;
+
 }
