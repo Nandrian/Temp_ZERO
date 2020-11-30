@@ -65,11 +65,17 @@ h1{
     padding: 25px;
     color: #6b3904;
     font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
 
 
 h2{
     color: #635300;
     font-family: 'Raleway', sans-serif;
+    padding-left: 25px;
+}
 
+p{
+    text-align: justify;
+    padding: 25px 25px;
 }
